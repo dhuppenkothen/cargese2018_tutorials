@@ -8,19 +8,19 @@ You should all have received a group assignment.
 
 Your tasks are as follows:
 * groups 1&2: Scenario 1, data set 1, Logistic Regression + Random Forests (classification, supervised)
-* groups 3&4: Scenario 1, data set 1, SVM + Random Forests(classification, supervised)
-* groups 4&5: Scenario 1, data set 1, ??? + Random Forests (classification, supervised)
-* groups 6&7: Scenario 1, data set 1, K-Means + Gaussian Mixture Models (classification, unsupervised)
+* groups 3&4: Scenario 1, data set 1, Linear SVM + Random Forests(classification, supervised)
+* groups 4&5: Scenario 1, data set 1, Gaussian Naive Bayes + Random Forests (classification, supervised)
+* groups 6&7: Scenario 1, data set 1, Nearest Neighbour + Random Forests (classification, unsupervised)
 
-* group 8: Scenario 2, data set 2, Ridge Regression + Random Forests (regression, supervised)
-* group 9: Scenario 2, data set 4, SVR + Ridge Regression (regression, supervised)
-* group 10: Scenario 2, data set 2, Ridge Regression + Random Forest (regression, supervised)
-* group 11: Scenario 2, data set 4, SVR + Random Forest (regression, supervised)
+* group 8: Scenario 2, data set 2, Linear Regression + Decision Tree (regression, supervised)
+* group 9: Scenario 2, data set 4, Support Vector Regression (linear kernel) + Random Forests  (regression, supervised)
+* group 10: Scenario 2, data set 2, Linear Regression + Decision Tree (regression, supervised)
+* group 11: Scenario 2, data set 4, Support Vector Regression (linear kernel) + Random Forests (regression, supervised)
 
-* group 12, Scenario 2, data set 6, Ridge Regression + Random Forest (regression, supervised)
-* group 13, Scenario 2, data set 7, SVR + Random Forest (regression, supervised)
-* group 14, Scenario 2, data set 8, Ridge Regression + Random Forest (regression, supervised)
-* group 15, Scenario 2, data set 9, SVR + Random Forest (regression, supervised)
+* group 12, Scenario 2, data set 6, Ridge Regression + Decision Tree (regression, supervised)
+* group 13, Scenario 2, data set 7, Support Vector Regression (linear kernel) + Random Forests (regression, supervised)
+* group 14, Scenario 2, data set 8, Ridge Regression + Decision Tree (regression, supervised)
+* group 15, Scenario 2, data set 9, Support Vector Regression (linear kernel) + Random Forests (regression, supervised)
 
 ## Scenarios
 
