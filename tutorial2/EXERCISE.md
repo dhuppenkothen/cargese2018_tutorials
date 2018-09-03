@@ -28,7 +28,7 @@ Depending on your group, your machine learning task falls into one of two scenar
 
 ### Scenario 1
 
- You live in a universe where stars are rare, but galaxies are common. Maybe you are on a planet around a lone star far, far out in intergalactic space, in a big, lonely void. Anyway, you don’t know anything about stars, but you really need to, because you don’t really know what that big glowing ball you call a sun is doing. But you had a stroke of genius! You have the feeling that plotting the colour versus the magnitude will tell you all sorts of useful things! Luckily, you have a big telescope observing everything around you, and you have a catalogue full of measurements. Now all you have to do is find the stars, and find them well, or that plot you’re going to make won’t show you what you think it does …
+ You live in a universe where stars are rare, but galaxies are common. Maybe you are on a planet around a lone star far, far out in intergalactic space, in a big, lonely void. Anyway, you don’t know anything about stars, but you really need to, because you don’t really know what that big glowing ball you call a sun is doing. But you had a stroke of genius! You have the feeling that plotting the colour versus the magnitude will tell you all sorts of useful things, if only you could *find* the stars in your sample first! Luckily, you have a big telescope observing everything around you, and you have a catalogue full of measurements. Now all you have to do is find the stars, and find them well, or that plot you’re going to make won’t show you what you think it does … (also, you'll find out pretty quickly that you'll need distances to get this to work, but that's a story for another day ...)
 
 ### Scenario 2
 
