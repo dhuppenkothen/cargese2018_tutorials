@@ -1,0 +1,10 @@
+python3
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+emcee
+corner
+pymc3
+sklearn
